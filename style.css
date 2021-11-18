@@ -1,0 +1,19 @@
+.btn-block {
+    width: 100%;
+}
+.header {
+    background-color: #00acec !important;
+    box-shadow: 0px 9px 20px -2px rgba(115,115,115,0.88);
+}
+.main {
+    padding: 0px;
+}
+.text-block {
+    margin: 10px 0px;
+}
+.text-block h1 {
+    font-size: 2.3rem;
+}
+.text-block p {
+    font-size: 1.5rem;
+}
